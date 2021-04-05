@@ -100,7 +100,7 @@ p {
 
 /* Hero Image and size specifications */
 .hero {
-    background-image: url("/Users/Stef/Challenge-02-Advanced-CSS-Portfolio/Images/sf-panorama.png");
+    background-image: url("/Users/Stef/Challenge-02-Advanced-CSS-Portfolio/assets/Images/sf-panorama.png");
     height: 400px;
     width: 100%;
     margin-bottom: 10px; 
@@ -151,7 +151,6 @@ main {
 
 }
 
-/* Section 1, Article 1, SEO specification */
 .about-me {
     display: flex;
     margin:4px, 4px;
@@ -250,9 +249,8 @@ main {
     margin-bottom: 20px;
     display: flex;
     flex-direction: column;
-    background-image: url("/Users/Stef/Challenge-02-Advanced-CSS-Portfolio/Images/surfReport.png");
+    background-image: url("/Users/Stef/Challenge-02-Advanced-CSS-Portfolio/assets/Images/surfReport.png");
     
-
   }
   
   /* for text area inside of flex item */
@@ -281,7 +279,7 @@ main {
     margin-bottom: 20px;
     display: flex;
     flex-direction: column;
-    background-image: url("/Users/Stef/Challenge-02-Advanced-CSS-Portfolio/Images/html.png");
+    background-image: url("/Users/Stef/Challenge-02-Advanced-CSS-Portfolio/assets/Images/html.png");
     
 
   }
@@ -312,7 +310,7 @@ main {
     margin-bottom: 20px;
     display: flex;
     flex-direction: column;
-    background-image: url("/Users/Stef/Challenge-02-Advanced-CSS-Portfolio/Images/calculating.png");
+    background-image: url("/Users/Stef/Challenge-02-Advanced-CSS-Portfolio/assets/Images/calculating.png");
     
 
   }
