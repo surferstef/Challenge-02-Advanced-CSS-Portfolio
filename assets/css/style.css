@@ -230,7 +230,6 @@ main {
 
 .content {
     width: 75%;
-   
     margin-left: 10px;
     display: flex;
     flex-direction: column;
@@ -320,6 +319,17 @@ main {
 
   }
 
+     /* flex child 1 hover */
+     .my-work #work-container:hover {
+        color:bisque;
+        font-weight: 200;
+        list-style-type: none;
+        /* text-shadow: 2px 2px #e24876; */
+        text-shadow: 2px 2px #F4F1C9;
+        filter: brightness(100%);
+        opacity: 1;
+    }
+
   /* flex child */
   .work-container #work-item-1  {
     width: 40%;
@@ -338,6 +348,16 @@ main {
     background-image: url("/Users/Stef/Challenge-02-Advanced-CSS-Portfolio/assets/Images/surfReport.png");
     
   }
+   /* flex child 1 hover */
+   .work-container #work-item-1:hover {
+    color:bisque;
+    font-weight: 200;
+    list-style-type: none;
+    /* text-shadow: 2px 2px #e24876; */
+    text-shadow: 2px 2px #F4F1C9;
+    filter: brightness(100%);
+    opacity: 1;
+}
   
   /* for text area inside of flex item */
   .work-container #work-item-1 span{
@@ -378,9 +398,19 @@ main {
     background-color: #a8adba;
     color: #393b4f;
     padding: 20px 40px;
-    text-align: left;  
-        
+    text-align: left;        
   }
+
+   /* flex child 2 hover */
+   .work-container #work-item-2:hover {
+    color:bisque;
+    font-weight: 200;
+    list-style-type: none;
+    /* text-shadow: 2px 2px #e24876; */
+    text-shadow: 2px 2px #F4F1C9;
+    filter: brightness(100%);
+    opacity: 1;
+}
 /* flex child */
 .work-container #work-item-3  {
     width: 40%;
@@ -413,6 +443,16 @@ main {
         
   }
 
+   /* flex child 3 hover */
+   .work-container #work-item-3:hover {
+    color:bisque;
+    font-weight: 200;
+    list-style-type: none;
+    /* text-shadow: 2px 2px #e24876; */
+    text-shadow: 2px 2px #F4F1C9;
+    filter: brightness(100%);
+    opacity: 1;
+}
   .contact-me #contact-container {
     width: 75%;
     display: flex;
