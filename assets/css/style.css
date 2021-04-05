@@ -100,7 +100,7 @@ p {
 
 /* Hero Image and size specifications */
 .hero {
-    background-image: url("/Challenge-02-Advanced-CSS-Portfolio/tree/main/assets/Images/sf-panorama.png");
+    background-image: url("./Challenge-02-Advanced-CSS-Portfolio/tree/main/assets/Images/sf-panorama.png");
     height: 400px;
     width: 100%;
     margin-bottom: 10px; 
