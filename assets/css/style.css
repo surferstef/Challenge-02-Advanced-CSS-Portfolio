@@ -100,7 +100,7 @@ p {
 
 /* Hero Image and size specifications */
 .hero {
-    background-image: url("assets/Images/sf-panorama.png");
+    background-image: url("./Images/sf-panorama.png");
     height: 400px;
     width: 100%;
     margin-bottom: 10px; 
