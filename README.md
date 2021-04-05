@@ -21,4 +21,4 @@ Link to Deployed Application: https://surferstef.github.io/Challenge-02-Advanced
 
 
 ## Screenshot
-![Application Screenshot](/Users/Stef/Challenge-02-Advanced-CSS-Portfolio/assets/Images/README.png "Screenshot of Application")
+![Application Screenshot](README.png "Screenshot of Application")
