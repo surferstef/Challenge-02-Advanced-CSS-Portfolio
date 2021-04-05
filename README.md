@@ -6,7 +6,7 @@ Challenge: Challenge-02 Advanced CSS Challenge: Professional Portfolio
 
 ## Purpose
 
-This code repository is a refactor of an existing codebase for a social media web application. The code refactor replaces existing HTML divs with semantic HTML5 elements, in order to make the web application/ code more accessible. The corresponding CSS has additionally been re-ordered and commented on to make the code more usable for future developers.
+This code repository is a deployment of original HTML/ CSS to create a portfolio for myself. The purpose of this is to create a baseline structure that I will continue to improve and refactor as I develop new things in the future.
 
 ## Built With
 * HTML
@@ -15,10 +15,10 @@ This code repository is a refactor of an existing codebase for a social media we
 ## Contribution
 Made by Stefan Hall
 
-### 2021 Challenge-01 Refactor
+### 2021 Challenge-02 Advanced CSS Portfolio
 
-Link to Deployed Application: https://surferstef.github.io/Challenge01-HTML-CSS-Git-Challenge/
+Link to Deployed Application: https://surferstef.github.io/Challenge-02-Advanced-CSS-Portfolio/
 
 
 ## Screenshot
-![Application Screenshot](README_screenshot.png "Screenshot of Application")
+![Application Screenshot](/Users/Stef/Challenge-02-Advanced-CSS-Portfolio/assets/Images/README.png "Screenshot of Application")
