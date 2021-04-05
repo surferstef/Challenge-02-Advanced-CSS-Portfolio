@@ -100,7 +100,7 @@ p {
 
 /* Hero Image and size specifications */
 .hero {
-    background-image: url("/Users/Stef/Challenge-02-Advanced-CSS-Portfolio/assets/Images/sf-panorama.png");
+    background-image: url("/assets/Images/sf-panorama.png");
     height: 400px;
     width: 100%;
     margin-bottom: 10px; 
@@ -345,7 +345,7 @@ main {
     margin-bottom: 20px;
     display: flex;
     flex-direction: column;
-    background-image: url("/Users/Stef/Challenge-02-Advanced-CSS-Portfolio/assets/Images/surfReport.png");
+    background-image: url("/assets/Images/surfReport.png");
     
   }
    /* flex child 1 hover */
@@ -385,7 +385,7 @@ main {
     margin-bottom: 20px;
     display: flex;
     flex-direction: column;
-    background-image: url("/Users/Stef/Challenge-02-Advanced-CSS-Portfolio/assets/Images/html.png");
+    background-image: url("/assets/Images/html.png");
     
 
   }
@@ -426,7 +426,7 @@ main {
     margin-bottom: 20px;
     display: flex;
     flex-direction: column;
-    background-image: url("/Users/Stef/Challenge-02-Advanced-CSS-Portfolio/assets/Images/calculating.png");
+    background-image: url("/assets/Images/calculating.png");
     
 
   }
