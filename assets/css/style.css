@@ -100,7 +100,7 @@ p {
 
 /* Hero Image and size specifications */
 .hero {
-    background-image: url("../Images/artWalkman.png");
+    background-image: url("../Images/sf-panorama.png");
     height: 400px;
     width: 100%;
     margin-bottom: 10px; 
@@ -345,7 +345,7 @@ main {
     margin-bottom: 20px;
     display: flex;
     flex-direction: column;
-    background-image: url("../Images/surfReport.png");
+    background-image: url("../Images/artWalkman.png");
     
   }
    /* flex child 1 hover */
